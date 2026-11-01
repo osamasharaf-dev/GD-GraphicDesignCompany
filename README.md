@@ -4,7 +4,7 @@
 
 Identity, packaging, print, social media, motion, art direction and websites. Each service has its own scene, and every scene opens with its own transition.
 
-🔗 **Live site:** _https://gd-graphic-design-company.vercel.app_
+🔗 **Live site:** https://gd-graphic-design-company.vercel.app
 
 ![GD — hero](docs/screenshots/01-hero.png)
 
@@ -69,7 +69,7 @@ Try your brand (diagonal wipe) → Contact (envelope opens).
 ## Notes
 
 - The contact form shows a thank-you message but doesn't send anything yet. To make it send, connect EmailJS (or any form service) in the form's `onSubmit`.
-- Every push to `main` deploys to production on Vercel automatically.
+- Deployed on Vercel as the project `gd-graphic-design-company`. To redeploy by hand: `vercel deploy --prod`.
 
 ---
 
